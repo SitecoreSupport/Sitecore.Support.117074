@@ -1,0 +1,5 @@
+src/.vs/
+src/Sitecore.Support.117074/bin/
+src/Sitecore.Support.117074/obj/
+src/packages/
+*.user
